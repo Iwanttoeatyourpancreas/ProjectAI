@@ -53,7 +53,7 @@ const visionCards = [
   },
 ];
 
-const digitalPresence = [
+const socials = [
   {
     platform: 'Instagram',
     username: '@shivanxhverma',
@@ -374,7 +374,7 @@ export default function PolymathResumeWebsite() {
             </Reveal>
 
             <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-6 sm:gap-8">
-              {digitalPresence.map((social) => (
+              {socials.map((social, index) => (
                 <Reveal key={social.platform} delay={index * 0.06}>
                   <a
                     href={social.link}
