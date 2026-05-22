@@ -36,6 +36,21 @@ const visionCards = [
     description:
       'Exploring borderless transactions, decentralized systems, transparent banking, and the future of trustless global finance through blockchain technology.',
   },
+  {
+    title: 'Computational Civilizations',
+    description:
+      'Exploring the idea that future civilizations may increasingly rely on synthetic environments, intelligent simulations, and AI-generated data to solve real-world problems at planetary scale.',
+  },
+  {
+    title: 'Cybersecurity & Digital Infrastructure',
+    description:
+      'Exploring cybersecurity, secure systems, digital infrastructure, and the protection of intelligent networks in an increasingly AI-driven world.',
+  },
+  {
+    title: 'Humanity & Emerging Technology',
+    description:
+      'Studying the long-term relationship between artificial intelligence, automation, computational systems, and the future evolution of human civilization.',
+  },
 ];
 
 const socials = [
@@ -48,6 +63,16 @@ const socials = [
     platform: 'Snapchat',
     username: '@Shivanxhverma',
     link: 'https://snapchat.com/add/Shivanxhverma',
+  },
+  {
+    platform: 'Telegram',
+    username: '@shivanxhverma',
+    link: 'https://t.me/shivanxhverma',
+  },
+  {
+    platform: 'Spotify',
+    username: 'Shivanxhverma',
+    link: 'https://open.spotify.com/user/316do7tainqq55w54jb2jyy5lbbq?si=7a29ce69dc7047a5',
   },
   {
     platform: 'Discord',
