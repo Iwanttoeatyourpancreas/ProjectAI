@@ -53,7 +53,7 @@ const visionCards = [
   },
 ];
 
-const socials = [
+const digitalPresence = [
   {
     platform: 'Instagram',
     username: '@shivanxhverma',
@@ -68,6 +68,11 @@ const socials = [
     platform: 'Telegram',
     username: '@shivanxhverma',
     link: 'https://t.me/shivanxhverma',
+  },
+  {
+    platform: 'Signal',
+    username: '@shivanxhverma',
+    link: 'https://signal.me/#eu/bEkBLqdeT2Yb08_hH5ekIC-2UHZZnZkkb9yzL9-pON2tXScJ5sNKSqHA0ofwmZT2',
   },
   {
     platform: 'Spotify',
