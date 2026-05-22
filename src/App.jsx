@@ -75,11 +75,6 @@ const socials = [
     link: 'https://signal.me/#eu/bEkBLqdeT2Yb08_hH5ekIC-2UHZZnZkkb9yzL9-pON2tXScJ5sNKSqHA0ofwmZT2',
   },
   {
-    platform: 'Spotify',
-    username: 'Shivanxhverma',
-    link: 'https://open.spotify.com/user/316do7tainqq55w54jb2jyy5lbbq?si=7a29ce69dc7047a5',
-  },
-  {
     platform: 'Discord',
     username: '@shivanxhverma',
     link: 'https://discord.com/users/893037527584342056',
